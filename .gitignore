@@ -1,0 +1,10 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DependencyInversionSimple/.vs
+/DependencyInversionSimple/bin/Debug/net8.0
+/DependencyInversionSimple/obj
+/DependencyInversionSimpleTests/bin/Debug/net8.0
+/DependencyInversionSimpleTests/obj
